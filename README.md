@@ -1,4 +1,4 @@
-# Camera-Interfacing-ESP32-Cam-Thermal-Camera
+![image](https://github.com/Shahriar-Hossain-Opu/Camera-Interfacing-ESP32-Cam-Thermal-Camera/assets/70248764/09733993-b21d-4a53-9fde-b2109dac3a42)# Camera-Interfacing-ESP32-Cam-Thermal-Camera
 Task: Camera Interfacing (Pixy/ESP32 Cam/Thermal Camera)
 Introduction:
 Interfacing with the ESP32 camera module opens up a world of possibilities for capturing images and video and integrating them into your projects. The ESP32 is a powerful microcontroller that comes with built-in Wi-Fi and Bluetooth capabilities, making it an excellent choice for IoT applications, robotics, surveillance systems, and more. The camera module provides a simple way to capture visual data and transmit it wirelessly, enabling us to create a wide range of innovative applications.
@@ -8,7 +8,8 @@ Apparatus:
 3.Nano uploader.
 4.Connecting wires.
 5.Arduino uno.
-Circuit Diagram:
+Circuit Diagram:![image](https://github.com/Shahriar-Hossain-Opu/Camera-Interfacing-ESP32-Cam-Thermal-Camera/assets/70248764/49541f19-5a64-492f-a6e7-2c81dfb8cb15)
+
  
 Fig:Circuit diagram of interfacing ESP32 camera with arduino.
 
@@ -37,7 +38,8 @@ Testing and Optimization:
 Test our application thoroughly to ensure proper functionality. Debug and optimize our code for performance, stability, and image quality. Consider factors like network latency and camera configuration to achieve the best results.
 Documentation and Community Resources:
 Throughout the process, refer to the ESP-IDF documentation, camera module datasheet, and community forums for guidance, examples, and solutions to common challenges.
-Operational view: 
+Operational view: ![image](https://github.com/Shahriar-Hossain-Opu/Camera-Interfacing-ESP32-Cam-Thermal-Camera/assets/70248764/fc7497d5-1a7f-4ec4-b765-1d23efb691aa)
+
  
 		Fig: Operational view of interfacing ESP32 camera with arduino.
 
@@ -45,7 +47,9 @@ Operational view:
 AMG8833 Thermal Camera
 The AMG8833 Grid-EYE is a low-cost infrared sensor array developed by Panasonic. For use with microcontrollers, it is integrated in a module with level shifters and voltage regulator allowing 3 - 5v power and data. 
 The sensor has only 64 (8x8) pixels, which is not much but enough for experiments, simple to work with and it is cheap.
- 
+ ![image](https://github.com/Shahriar-Hossain-Opu/Camera-Interfacing-ESP32-Cam-Thermal-Camera/assets/70248764/557040da-e4da-44f1-a3b9-d3faed3b0301)
+![image](https://github.com/Shahriar-Hossain-Opu/Camera-Interfacing-ESP32-Cam-Thermal-Camera/assets/70248764/2afc8ce5-9e78-4b23-a371-0923c5665c2f)
+
 Fig: AMG8833 pin connection
  
 
