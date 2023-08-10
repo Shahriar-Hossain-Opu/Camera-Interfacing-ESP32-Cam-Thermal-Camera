@@ -1,4 +1,4 @@
-![image](https://github.com/Shahriar-Hossain-Opu/Camera-Interfacing-ESP32-Cam-Thermal-Camera/assets/70248764/09733993-b21d-4a53-9fde-b2109dac3a42)# Camera-Interfacing-ESP32-Cam-Thermal-Camera
+# Camera-Interfacing-ESP32-Cam-Thermal-Camera
 Task: Camera Interfacing (Pixy/ESP32 Cam/Thermal Camera)
 Introduction:
 Interfacing with the ESP32 camera module opens up a world of possibilities for capturing images and video and integrating them into your projects. The ESP32 is a powerful microcontroller that comes with built-in Wi-Fi and Bluetooth capabilities, making it an excellent choice for IoT applications, robotics, surveillance systems, and more. The camera module provides a simple way to capture visual data and transmit it wirelessly, enabling us to create a wide range of innovative applications.
